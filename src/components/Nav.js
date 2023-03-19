@@ -35,7 +35,8 @@ export default function Nav() {
         />
         <img
             alt="User logged"
-            src="https://ssl.pstatic.net/static/common/myarea/myInfo.gif"
+            src="https://search.pstatic.net/sunny/?src=https%3A%2F%2Fimg.theqoo.net%2Fimg%2FegrCb.jpg&type=sc960_832"
+            // src="https://ssl.pstatic.net/static/common/myarea/myInfo.gif"
             className="nav__avatar"
         />
     </nav>
